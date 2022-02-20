@@ -1,4 +1,4 @@
-Available=自动选择, server-tag-regex=^*$
+Available=自动选择, server-tag-regex=|
 Available=日本DMM, server-tag-regex=^(.*)(日本|TYO|东京)+(.*)$
 Available=香港DMM, server-tag-regex=^(.*)(香港|HK)+(.*)$
 Available=推特, server-tag-regex=^(.*)(香港|HK)+(.*)$
